@@ -1,0 +1,46 @@
+.dashboard{
+   background-color:#eceff7;
+   height:83vh;
+   padding: 16px;  
+}
+
+.container-dashboard-search-area{
+    display: flex;
+   width: 100%;
+   margin-top: 8px;
+
+   background-color: #eceff7;
+}
+
+.combo-label{
+    text-align: left;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+.combo{
+    
+    padding-right: 16px;
+}
+
+.combo-box{
+    height: 35px;
+    
+}
+
+.combo-box:hover{
+    box-shadow: 0 0 5pt 0.5pt #D3D3D3;
+  }
+  .combo-box:focus {
+    box-shadow: 0 0 5pt 2pt #D3D3D3;
+    outline-width: 0px;
+  }
+
+.container-table{
+    
+    background-color: white;
+    border-radius: 16px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+
+}
